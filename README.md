@@ -45,7 +45,7 @@
 <hr />
 
 <h2>📎 Example Screenshot</h2>
-<p><em>(You can add a screenshot here of the running clock window)</em></p>
+<p><img src="https://github.com/ContactAlexey/Clock/blob/ce5f7cffd0f88cc3b5e443078105631827c40c9d/Clock.png"></p>
 
 ---
 
